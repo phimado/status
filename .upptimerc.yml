@@ -3,10 +3,6 @@ owner: phimado # Your GitHub organization or username, where this repository liv
 repo: status # The name of this repository
 
 sites:
-  - name: PHIMADO
-    url: https://phimado.de
-    expectedStatusCodes:
-      - 200
   - name: SRV01 Web
     check: "tcp-ping"
     url: 89.22.112.170
@@ -14,11 +10,22 @@ sites:
   - name: SRV01 Mail
     check: "tcp-ping"
     url: 89.22.112.170
-    port: 993
+    port: 993  
+    - name: PHIMADO
+    url: https://phimado.de
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 10000
   - name: ECDC
     url: https://memmingen-indians.de
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 10000
   - name: ECDC Shop
     url: https://shop.memmingen-indians.de
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 500
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
