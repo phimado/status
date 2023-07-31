@@ -27,7 +27,7 @@ sites:
       - 200
     maxResponseTime: 10000
   - name: Test
-    url: https://shosp.memmingen-indians.de
+    url: https://shop.memmingen-indians.de
     expectedStatusCodes:
       - 200
     maxResponseTime: 10000
