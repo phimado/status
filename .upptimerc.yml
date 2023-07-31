@@ -57,15 +57,7 @@ i18n:
   up: Online
   down: Offline
   degraded: Instabil
-  ms: ms
-  loading: Lädt
-  navGitHub: GitHub
   footer:
-  errorTitle: Es ist ein Fehler aufgetreten
-  errorIntro: An error occurred in trying to get the latest status details.
-  errorText: You can try again in a few moments.
-  errorHome: Zur Startseite
-  pastScheduledMaintenance: Past Scheduled Maintenance
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
