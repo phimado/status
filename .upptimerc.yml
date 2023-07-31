@@ -33,7 +33,7 @@ status-website:
   cname: status.phimado.de
   theme: night
   # baseUrl: /status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://cdn.phimado.de/2021/01/phimado_logo_hell.svg
   name: PHIMADO Service Status
   navbar:
     - title: Status
