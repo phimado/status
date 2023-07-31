@@ -15,22 +15,32 @@ sites:
     url: https://phimado.de
     expectedStatusCodes:
       - 200
-    maxResponseTime: 10000
+    maxResponseTime: 5000
   - name: ECDC
     url: https://memmingen-indians.de
     expectedStatusCodes:
       - 200
-    maxResponseTime: 10000
+    maxResponseTime: 5000
   - name: ECDC Shop
     url: https://shop.memmingen-indians.de
     expectedStatusCodes:
       - 200
-    maxResponseTime: 10000
-  - name: Test
-    url: https://shop.memmingen-indians.de
+    maxResponseTime: 5000
+  - name: Obacht
+    url: https://obacht-magazin.de
     expectedStatusCodes:
       - 200
-    maxResponseTime: 10000
+    maxResponseTime: 5000
+  - name: Mendes
+    url: https://mendes.de
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 5000
+  - name: Memminger Marionettentheater
+    url: https://memminger-marionettentheater.de
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 5000
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
