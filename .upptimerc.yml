@@ -26,6 +26,11 @@ sites:
     expectedStatusCodes:
       - 200
     maxResponseTime: 10000
+  - name: Test
+    url: https://shosp.memmingen-indians.de
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 10000
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
