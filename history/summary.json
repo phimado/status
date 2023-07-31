@@ -95,18 +95,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/shop.memmingen-indians.de.ico",
     "slug": "test",
     "status": "up",
-    "uptime": "2.32%",
-    "uptimeDay": "2.32%",
-    "uptimeWeek": "2.32%",
-    "uptimeMonth": "2.32%",
-    "uptimeYear": "2.32%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2081,
     "timeDay": 2081,
     "timeWeek": 2081,
     "timeMonth": 2081,
     "timeYear": 2081,
-    "dailyMinutesDown": {
-      "2023-07-31": 6
-    }
+    "dailyMinutesDown": {}
   }
 ]
