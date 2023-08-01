@@ -41,6 +41,11 @@ sites:
     expectedStatusCodes:
       - 200
     maxResponseTime: 5000
+  - name: Testseite
+    url: https://test.phimado.de
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 5000
 
 i18n:
   activeIncidents: Aktive Incidents
