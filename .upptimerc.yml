@@ -57,7 +57,7 @@ i18n:
   up: Online
   down: Offline
   degraded: Instabil
-  footer: T
+  footer: (C) by PHIMADO
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
