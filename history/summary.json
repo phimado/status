@@ -148,17 +148,19 @@
     "url": "https://test.phimado.de",
     "icon": "https://icons.duckduckgo.com/ip3/test.phimado.de.ico",
     "slug": "testseite",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 950,
-    "timeDay": 950,
-    "timeWeek": 950,
-    "timeMonth": 950,
-    "timeYear": 950,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "98.98%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "98.98%",
+    "uptimeYear": "98.98%",
+    "time": 896,
+    "timeDay": 896,
+    "timeWeek": 896,
+    "timeMonth": 896,
+    "timeYear": 896,
+    "dailyMinutesDown": {
+      "2023-08-01": 0
+    }
   }
 ]
