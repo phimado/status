@@ -7,18 +7,17 @@ sites:
     check: "tcp-ping"
     url: 89.22.112.170
     port: 443
+    maxResponseTime: 1000
   - name: SRV01 Mail
     check: "tcp-ping"
     url: 89.22.112.170
     port: 993
-  - name: ECDC Server Web
-    check: "tcp-ping"
-    url: 89.22.103.74
-    port: 443
-  - name: ECDC Server Mail
-    check: "tcp-ping"
-    url: 89.22.103.74
-    port: 993
+    maxResponseTime: 1000
+  - name: SRV01 Plesk Panel
+    url: https://srv01.phimado.de:8443
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 5000
   - name: PHIMADO
     url: https://phimado.de
     expectedStatusCodes:
