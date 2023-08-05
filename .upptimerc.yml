@@ -26,6 +26,11 @@ sites:
     expectedStatusCodes:
       - 200
     maxResponseTime: 5000
+  - name: ECDC Frauen
+    url: https://fraueneishockey-mm.de
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 5000
   - name: Obacht
     url: https://obacht-magazin.de
     expectedStatusCodes:
@@ -38,11 +43,6 @@ sites:
     maxResponseTime: 5000
   - name: Memminger Marionettentheater
     url: https://memminger-marionettentheater.de
-    expectedStatusCodes:
-      - 200
-    maxResponseTime: 5000
-  - name: Testseite
-    url: https://test.phimado.de
     expectedStatusCodes:
       - 200
     maxResponseTime: 5000
