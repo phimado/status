@@ -41,35 +41,39 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ecdc-server-web",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "96.08%",
+    "uptimeDay": "96.08%",
+    "uptimeWeek": "96.08%",
+    "uptimeMonth": "96.08%",
+    "uptimeYear": "96.08%",
     "time": 107,
     "timeDay": 107,
     "timeWeek": 107,
     "timeMonth": 107,
     "timeYear": 107,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-05": 0
+    }
   },
   {
     "name": "ECDC Server Mail",
     "url": "89.22.103.74",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ecdc-server-mail",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "96.86%",
+    "uptimeDay": "96.86%",
+    "uptimeWeek": "96.86%",
+    "uptimeMonth": "96.86%",
+    "uptimeYear": "96.86%",
     "time": 102,
     "timeDay": 102,
     "timeWeek": 102,
     "timeMonth": 102,
     "timeYear": 102,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-05": 0
+    }
   },
   {
     "name": "PHIMADO",
