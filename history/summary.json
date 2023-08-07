@@ -6,16 +6,18 @@
     "slug": "srv-01-web",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 125,
     "timeDay": 104,
-    "timeWeek": 125,
+    "timeWeek": 120,
     "timeMonth": 125,
     "timeYear": 125,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-07": 0
+    }
   },
   {
     "name": "SRV01 Mail",
@@ -24,124 +26,138 @@
     "slug": "srv-01-mail",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 126,
     "timeDay": 110,
-    "timeWeek": 126,
+    "timeWeek": 123,
     "timeMonth": 126,
     "timeYear": 126,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-07": 0
+    }
   },
   {
     "name": "SRV01 Plesk Panel",
     "url": "https://srv01.phimado.de:8443",
     "icon": "https://icons.duckduckgo.com/ip3/srv01.phimado.de.ico",
     "slug": "srv-01-plesk-panel",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1235,
     "timeDay": 1105,
     "timeWeek": 1235,
     "timeMonth": 1235,
     "timeYear": 1235,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-07": 0
+    }
   },
   {
     "name": "PHIMADO",
     "url": "https://phimado.de",
     "icon": "https://icons.duckduckgo.com/ip3/phimado.de.ico",
     "slug": "phimado",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1838,
     "timeDay": 2151,
-    "timeWeek": 1838,
+    "timeWeek": 1679,
     "timeMonth": 1838,
     "timeYear": 1838,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-07": 0
+    }
   },
   {
     "name": "ECDC",
     "url": "https://memmingen-indians.de",
     "icon": "https://icons.duckduckgo.com/ip3/memmingen-indians.de.ico",
     "slug": "ecdc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1208,
     "timeDay": 1199,
-    "timeWeek": 1208,
+    "timeWeek": 1224,
     "timeMonth": 1208,
     "timeYear": 1208,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-07": 0
+    }
   },
   {
     "name": "ECDC Shop",
     "url": "https://shop.memmingen-indians.de",
     "icon": "https://icons.duckduckgo.com/ip3/shop.memmingen-indians.de.ico",
     "slug": "ecdc-shop",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2992,
     "timeDay": 2963,
-    "timeWeek": 2992,
+    "timeWeek": 2925,
     "timeMonth": 2992,
     "timeYear": 2992,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-07": 0
+    }
   },
   {
     "name": "ECDC Frauen",
     "url": "https://fraueneishockey-mm.de",
     "icon": "https://icons.duckduckgo.com/ip3/fraueneishockey-mm.de.ico",
     "slug": "ecdc-frauen",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1059,
     "timeDay": 1593,
     "timeWeek": 1059,
     "timeMonth": 1059,
     "timeYear": 1059,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-07": 0
+    }
   },
   {
     "name": "Obacht",
     "url": "https://obacht-magazin.de",
     "icon": "https://icons.duckduckgo.com/ip3/obacht-magazin.de.ico",
     "slug": "obacht",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1013,
     "timeDay": 836,
-    "timeWeek": 1013,
+    "timeWeek": 978,
     "timeMonth": 1013,
     "timeYear": 1013,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-07": 0
+    }
   },
   {
     "name": "Mendes",
@@ -156,7 +172,7 @@
     "uptimeYear": "100.00%",
     "time": 1152,
     "timeDay": 2954,
-    "timeWeek": 1152,
+    "timeWeek": 1079,
     "timeMonth": 1152,
     "timeYear": 1152,
     "dailyMinutesDown": {}
@@ -166,17 +182,19 @@
     "url": "https://memminger-marionettentheater.de",
     "icon": "https://icons.duckduckgo.com/ip3/memminger-marionettentheater.de.ico",
     "slug": "memminger-marionettentheater",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1101,
     "timeDay": 838,
-    "timeWeek": 1101,
+    "timeWeek": 1084,
     "timeMonth": 1101,
     "timeYear": 1101,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-07": 0
+    }
   }
 ]
