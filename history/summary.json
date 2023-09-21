@@ -4,10 +4,10 @@
     "url": "89.22.112.170",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "srv-01-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 128,
@@ -15,7 +15,9 @@
     "timeWeek": 150,
     "timeMonth": 135,
     "timeYear": 128,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-21": 1
+    }
   },
   {
     "name": "SRV01 Mail",
