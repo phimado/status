@@ -60,19 +60,19 @@
     "url": "https://phimado.de",
     "icon": "https://icons.duckduckgo.com/ip3/phimado.de.ico",
     "slug": "phimado",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1567,
-    "timeDay": 2662,
-    "timeWeek": 1640,
-    "timeMonth": 1430,
-    "timeYear": 1567,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.65%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 1573,
+    "timeDay": 2519,
+    "timeWeek": 1732,
+    "timeMonth": 1461,
+    "timeYear": 1573,
     "dailyMinutesDown": {
-      "2023-11-11": 1
+      "2023-11-11": 19
     }
   },
   {
@@ -98,19 +98,19 @@
     "url": "https://shop.memmingen-indians.de",
     "icon": "https://icons.duckduckgo.com/ip3/shop.memmingen-indians.de.ico",
     "slug": "ecdc-shop",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3143,
-    "timeDay": 3758,
-    "timeWeek": 3374,
-    "timeMonth": 3194,
-    "timeYear": 3143,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.72%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 3142,
+    "timeDay": 3378,
+    "timeWeek": 3327,
+    "timeMonth": 3188,
+    "timeYear": 3142,
     "dailyMinutesDown": {
-      "2023-11-11": 0
+      "2023-11-11": 18
     }
   },
   {
