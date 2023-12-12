@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 131,
-    "timeDay": 103,
-    "timeWeek": 124,
-    "timeMonth": 130,
-    "timeYear": 131,
+    "time": 130,
+    "timeDay": 105,
+    "timeWeek": 122,
+    "timeMonth": 128,
+    "timeYear": 130,
     "dailyMinutesDown": {
       "2023-09-21": 25
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 131,
-    "timeDay": 101,
-    "timeWeek": 123,
-    "timeMonth": 131,
+    "timeDay": 108,
+    "timeWeek": 121,
+    "timeMonth": 129,
     "timeYear": 131,
     "dailyMinutesDown": {}
   },
@@ -42,18 +42,20 @@
     "url": "https://srv01.phimado.de:8443",
     "icon": "https://icons.duckduckgo.com/ip3/srv01.phimado.de.ico",
     "slug": "srv-01-plesk-panel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1339,
-    "timeDay": 996,
-    "timeWeek": 1288,
-    "timeMonth": 1378,
-    "timeYear": 1339,
-    "dailyMinutesDown": {}
+    "time": 1337,
+    "timeDay": 1080,
+    "timeWeek": 1257,
+    "timeMonth": 1359,
+    "timeYear": 1337,
+    "dailyMinutesDown": {
+      "2023-12-12": 1
+    }
   },
   {
     "name": "PHIMADO",
@@ -66,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1515,
-    "timeDay": 1509,
-    "timeWeek": 1142,
-    "timeMonth": 1288,
-    "timeYear": 1515,
+    "time": 1510,
+    "timeDay": 736,
+    "timeWeek": 1109,
+    "timeMonth": 1268,
+    "timeYear": 1510,
     "dailyMinutesDown": {
       "2023-11-11": 19
     }
@@ -86,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1274,
-    "timeDay": 900,
-    "timeWeek": 1252,
-    "timeMonth": 1308,
-    "timeYear": 1274,
+    "time": 1273,
+    "timeDay": 1022,
+    "timeWeek": 1205,
+    "timeMonth": 1296,
+    "timeYear": 1273,
     "dailyMinutesDown": {}
   },
   {
@@ -105,9 +107,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 3200,
-    "timeDay": 3145,
-    "timeWeek": 3183,
-    "timeMonth": 3423,
+    "timeDay": 3296,
+    "timeWeek": 3121,
+    "timeMonth": 3418,
     "timeYear": 3200,
     "dailyMinutesDown": {
       "2023-11-11": 18
@@ -124,11 +126,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1303,
-    "timeDay": 801,
-    "timeWeek": 1096,
-    "timeMonth": 1165,
-    "timeYear": 1303,
+    "time": 1299,
+    "timeDay": 865,
+    "timeWeek": 1067,
+    "timeMonth": 1153,
+    "timeYear": 1299,
     "dailyMinutesDown": {}
   },
   {
@@ -142,11 +144,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1384,
-    "timeDay": 2065,
-    "timeWeek": 1932,
-    "timeMonth": 1922,
-    "timeYear": 1384,
+    "time": 1390,
+    "timeDay": 2174,
+    "timeWeek": 1958,
+    "timeMonth": 1916,
+    "timeYear": 1390,
     "dailyMinutesDown": {}
   },
   {
@@ -160,11 +162,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1532,
-    "timeDay": 753,
-    "timeWeek": 1643,
-    "timeMonth": 1449,
-    "timeYear": 1532,
+    "time": 1527,
+    "timeDay": 781,
+    "timeWeek": 1260,
+    "timeMonth": 1434,
+    "timeYear": 1527,
     "dailyMinutesDown": {
       "2023-09-12": 62
     }
@@ -180,11 +182,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1108,
-    "timeDay": 836,
-    "timeWeek": 1010,
-    "timeMonth": 1113,
-    "timeYear": 1108,
+    "time": 1106,
+    "timeDay": 842,
+    "timeWeek": 989,
+    "timeMonth": 1100,
+    "timeYear": 1106,
     "dailyMinutesDown": {}
   }
 ]
