@@ -4,9 +4,9 @@
     "url": "89.22.112.170",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "srv-01-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 127,
     "timeYear": 130,
     "dailyMinutesDown": {
+      "2023-12-14": 0,
       "2023-09-21": 25
     }
   },
@@ -24,9 +25,9 @@
     "url": "89.22.112.170",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "srv-01-mail",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +36,9 @@
     "timeWeek": 121,
     "timeMonth": 127,
     "timeYear": 130,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-14": 0
+    }
   },
   {
     "name": "SRV01 Plesk Panel",
