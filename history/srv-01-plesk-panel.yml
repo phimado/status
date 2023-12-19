@@ -1,7 +1,7 @@
 url: https://srv01.phimado.de:8443
-status: degraded
+status: up
 code: 200
-responseTime: 25809
-lastUpdated: 2023-12-19T23:17:29.999Z
+responseTime: 1663
+lastUpdated: 2023-12-19T23:28:29.976Z
 startTime: 2023-08-05T10:42:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
