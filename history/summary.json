@@ -11,8 +11,8 @@
     "uptimeMonth": "93.47%",
     "uptimeYear": "98.72%",
     "time": 130,
-    "timeDay": 165,
-    "timeWeek": 130,
+    "timeDay": 143,
+    "timeWeek": 133,
     "timeMonth": 123,
     "timeYear": 130,
     "dailyMinutesDown": {
@@ -34,8 +34,8 @@
     "uptimeMonth": "93.43%",
     "uptimeYear": "98.73%",
     "time": 130,
-    "timeDay": 165,
-    "timeWeek": 130,
+    "timeDay": 144,
+    "timeWeek": 132,
     "timeMonth": 124,
     "timeYear": 130,
     "dailyMinutesDown": {
@@ -56,11 +56,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 1513,
-    "timeDay": 2064,
-    "timeWeek": 1497,
-    "timeMonth": 2106,
-    "timeYear": 1513,
+    "time": 1511,
+    "timeDay": 1612,
+    "timeWeek": 1441,
+    "timeMonth": 2103,
+    "timeYear": 1511,
     "dailyMinutesDown": {
       "2023-12-18": 18
     }
@@ -76,11 +76,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1483,
-    "timeDay": 1654,
-    "timeWeek": 1241,
-    "timeMonth": 1218,
-    "timeYear": 1483,
+    "time": 1479,
+    "timeDay": 1258,
+    "timeWeek": 1222,
+    "timeMonth": 1222,
+    "timeYear": 1479,
     "dailyMinutesDown": {
       "2023-11-11": 19
     }
@@ -97,9 +97,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 1283,
-    "timeDay": 1473,
-    "timeWeek": 1323,
-    "timeMonth": 1306,
+    "timeDay": 1464,
+    "timeWeek": 1360,
+    "timeMonth": 1323,
     "timeYear": 1283,
     "dailyMinutesDown": {
       "2023-12-18": 17
@@ -110,19 +110,19 @@
     "url": "https://shop.memmingen-indians.de",
     "icon": "https://icons.duckduckgo.com/ip3/shop.memmingen-indians.de.ico",
     "slug": "ecdc-shop",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 3356,
-    "timeDay": 12334,
-    "timeWeek": 5948,
-    "timeMonth": 4108,
-    "timeYear": 3356,
+    "time": 3358,
+    "timeDay": 9512,
+    "timeWeek": 5717,
+    "timeMonth": 4101,
+    "timeYear": 3358,
     "dailyMinutesDown": {
-      "2024-01-04": 0,
+      "2024-01-04": 6,
       "2023-12-18": 17,
       "2023-11-11": 18
     }
@@ -138,11 +138,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 1286,
-    "timeDay": 1371,
-    "timeWeek": 1179,
-    "timeMonth": 1195,
-    "timeYear": 1286,
+    "time": 1285,
+    "timeDay": 1230,
+    "timeWeek": 1168,
+    "timeMonth": 1192,
+    "timeYear": 1285,
     "dailyMinutesDown": {
       "2023-12-18": 17
     }
@@ -158,11 +158,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 1470,
-    "timeDay": 2196,
-    "timeWeek": 2182,
-    "timeMonth": 1949,
-    "timeYear": 1470,
+    "time": 1469,
+    "timeDay": 1891,
+    "timeWeek": 2082,
+    "timeMonth": 1929,
+    "timeYear": 1469,
     "dailyMinutesDown": {
       "2023-12-18": 16
     }
@@ -178,11 +178,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
-    "time": 1512,
-    "timeDay": 1304,
-    "timeWeek": 1002,
-    "timeMonth": 1424,
-    "timeYear": 1512,
+    "time": 1509,
+    "timeDay": 1109,
+    "timeWeek": 991,
+    "timeMonth": 1409,
+    "timeYear": 1509,
     "dailyMinutesDown": {
       "2023-12-28": 22,
       "2023-09-12": 62
@@ -200,9 +200,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 1111,
-    "timeDay": 1581,
-    "timeWeek": 1183,
-    "timeMonth": 1094,
+    "timeDay": 1345,
+    "timeWeek": 1174,
+    "timeMonth": 1095,
     "timeYear": 1111,
     "dailyMinutesDown": {
       "2023-12-18": 16
