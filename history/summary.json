@@ -110,18 +110,19 @@
     "url": "https://shop.memmingen-indians.de",
     "icon": "https://icons.duckduckgo.com/ip3/shop.memmingen-indians.de.ico",
     "slug": "ecdc-shop",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 3268,
-    "timeDay": 4544,
-    "timeWeek": 3923,
-    "timeMonth": 3608,
-    "timeYear": 3268,
+    "time": 3356,
+    "timeDay": 12334,
+    "timeWeek": 5948,
+    "timeMonth": 4108,
+    "timeYear": 3356,
     "dailyMinutesDown": {
+      "2024-01-04": 0,
       "2023-12-18": 17,
       "2023-11-11": 18
     }
@@ -153,9 +154,9 @@
     "slug": "obacht",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 1470,
     "timeDay": 2196,
@@ -163,7 +164,6 @@
     "timeMonth": 1949,
     "timeYear": 1470,
     "dailyMinutesDown": {
-      "2024-01-04": 11,
       "2023-12-18": 16
     }
   },
