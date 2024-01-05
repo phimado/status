@@ -192,19 +192,19 @@
     "url": "https://memminger-marionettentheater.de",
     "icon": "https://icons.duckduckgo.com/ip3/memminger-marionettentheater.de.ico",
     "slug": "memminger-marionettentheater",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 1109,
-    "timeDay": 869,
-    "timeWeek": 1141,
-    "timeMonth": 1089,
+    "timeDay": 991,
+    "timeWeek": 1152,
+    "timeMonth": 1094,
     "timeYear": 1109,
     "dailyMinutesDown": {
-      "2024-01-05": 0,
+      "2024-01-05": 13,
       "2023-12-18": 16
     }
   }
