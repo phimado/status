@@ -1,7 +1,7 @@
 url: https://mendes.de
-status: up
+status: degraded
 code: 200
-responseTime: 866
-lastUpdated: 2024-01-11T23:07:10.231Z
+responseTime: 7949
+lastUpdated: 2024-01-12T08:00:57.796Z
 startTime: 2023-07-31T21:33:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
