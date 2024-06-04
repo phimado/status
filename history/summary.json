@@ -53,9 +53,9 @@
     "url": "https://srv01.phimado.de:8443",
     "icon": "https://icons.duckduckgo.com/ip3/srv01.phimado.de.ico",
     "slug": "srv-01-plesk-panel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -65,6 +65,7 @@
     "timeMonth": 1281,
     "timeYear": 1429,
     "dailyMinutesDown": {
+      "2024-06-04": 0,
       "2024-03-20": 23,
       "2023-12-18": 18
     }
