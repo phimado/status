@@ -38,8 +38,8 @@ sites:
     expectedStatusCodes:
       - 200
     maxResponseTime: 5000
-  - name: Obacht
-    url: https://obacht-magazin.de
+  - name: JB SportManagement
+    url: https://jb-sport.de
     expectedStatusCodes:
       - 200
     maxResponseTime: 5000
@@ -69,7 +69,7 @@ i18n:
   up: Online
   down: Offline
   degraded: Instabil
-  footer: (C) by PHIMADO 2023
+  footer: (C) by PHIMADO 2024
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
