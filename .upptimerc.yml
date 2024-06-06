@@ -87,6 +87,9 @@ status-website:
   metaTags:
     - name: "robots"
       content: "noindex"
+
+workflowSchedule:
+  uptime: "*/5 * * * *"
     
 
 # Upptime also supports notifications, assigning issues, and more
