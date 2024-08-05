@@ -53,6 +53,11 @@ sites:
     expectedStatusCodes:
       - 200
     maxResponseTime: 5000
+  - name: Grundschule Benningen-Lachen
+    url: https://gs-benningen-lachen.de
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 5000
 
 i18n:
   activeIncidents: Aktive Incidents
