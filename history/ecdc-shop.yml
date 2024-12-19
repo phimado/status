@@ -1,7 +1,7 @@
 url: https://shop.memmingen-indians.de
-status: up
-code: 200
-responseTime: 3609
-lastUpdated: 2024-12-19T23:08:43.044Z
+status: down
+code: 500
+responseTime: 960
+lastUpdated: 2024-12-19T23:22:27.020Z
 startTime: 2023-07-31T19:37:53.000Z
 generator: Upptime <https://github.com/upptime/upptime>
