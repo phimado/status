@@ -281,19 +281,19 @@
     "url": "https://mendes.de",
     "icon": "https://icons.duckduckgo.com/ip3/mendes.de.ico",
     "slug": "mendes",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.56%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 1522,
-    "timeDay": 710,
-    "timeWeek": 1375,
-    "timeMonth": 1108,
-    "timeYear": 1514,
+    "time": 1521,
+    "timeDay": 714,
+    "timeWeek": 1293,
+    "timeMonth": 1094,
+    "timeYear": 1512,
     "dailyMinutesDown": {
-      "2025-03-17": 1
+      "2025-03-17": 21
     }
   },
   {
